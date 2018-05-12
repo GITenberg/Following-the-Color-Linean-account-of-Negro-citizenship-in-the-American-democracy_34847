@@ -1,0 +1,30 @@
+_repo: Following-the-Color-Linean-account-of-Negro-citizenship-in-the-American-democracy_34847
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Baker, Ray Stannard
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '37309'
+    url: http://www.gutenberg.org/2009/agents/37309
+    wikipedia: http://www.gutenberg.org/browse/authors/g#a929
+covers:
+- cover_type: archival
+  image_path: 34847-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34847'
+  lccn: 08031180
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Race relations'
+- !lcsh 'African Americans'
+- !lcc 'E151'
+title: "Following the Color Line\r\nAn account of Negro citizenship in the American\
+  \ democracy"
+url: http://www.gutenberg.org/ebooks/34847
