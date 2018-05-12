@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 34847-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34847#Following-the-Color-Linean-account-of-Negro-citizenship-in-the-American-democracy
 gutenberg_issued: '2011-01-04'
 gutenberg_type: Text
 identifiers:
